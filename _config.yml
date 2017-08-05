@@ -9,7 +9,7 @@ language_default: 'en'
 
 # Site settings
 name: Mr Wang
-subname: 一个热爱折腾、不肯休息的业余程序员！
+subname: 记录！
 email: 1806842229@qq.com
 author: Deven Wang
 url: http://blog.deven.win
@@ -25,7 +25,7 @@ lsi: true
 published: false
 safe: false
 permalink: /:year/:month/:day/:title/
-paginate: 2
+paginate: 4
 markdown: kramdown
 excerpt_separator: '<!-- more -->'
 
